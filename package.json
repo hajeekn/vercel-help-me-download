@@ -1,0 +1,5 @@
+  {
+  "scripts":{
+    "get": "mkdir ./public && cd ./public && curl -LJO {$LINK} && echo "The download is complete!""
+  }
+}

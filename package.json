@@ -1,5 +1,5 @@
   {
   "scripts":{
-    "get": "mkdir ./public && cd ./public && curl -LJO {$LINK} && echo OK"
+    "get": "mkdir ./public && cd ./public && curl -LJO {$LINK} "
   }
 }
